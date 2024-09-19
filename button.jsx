@@ -5,6 +5,7 @@ const Buttons = () => {
   return (
     <>
       <AwesomeButton type="primary">Primary</AwesomeButton>
+      <AwesomeButton type="secondary">Secondary</AwesomeButton>
     </>
   );
 };
