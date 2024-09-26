@@ -4,7 +4,7 @@ import "react-awesome-button/dist/styles.css";
 const Buttons = () => {
   return (
     <>
-      <AwesomeButton type="primary">Primary</AwesomeButton>
+      <AwesomeButton type="primary">Primary</AwesomeButton> //comment
     </>
   );
 };
